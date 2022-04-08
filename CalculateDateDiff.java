@@ -1,5 +1,3 @@
-package com.notegg.daybox;
-
 public class CalculateDateDiff {
 
     public int GetDayInMonth(int year, int month) {
